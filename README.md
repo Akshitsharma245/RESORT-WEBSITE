@@ -1,2 +1,2 @@
 # RESORT-WEBSITE
-I developed this Resort website using HTML, CSS, JAVASCRIPT.
+I developed this Resort website Homepage using HTML, CSS, JAVASCRIPT.
